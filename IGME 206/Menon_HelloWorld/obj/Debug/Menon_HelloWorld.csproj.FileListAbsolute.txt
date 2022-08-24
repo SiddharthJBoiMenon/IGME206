@@ -1,0 +1,8 @@
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\bin\Debug\Menon_HelloWorld.exe.config
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\bin\Debug\Menon_HelloWorld.exe
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\bin\Debug\Menon_HelloWorld.pdb
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\obj\Debug\Menon_HelloWorld.csproj.AssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\obj\Debug\Menon_HelloWorld.csproj.SuggestedBindingRedirects.cache
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\obj\Debug\Menon_HelloWorld.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\obj\Debug\Menon_HelloWorld.exe
+Z:\IGMProfile\Desktop\IGME 206\Menon_HelloWorld\obj\Debug\Menon_HelloWorld.pdb
